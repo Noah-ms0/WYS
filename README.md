@@ -9,6 +9,14 @@ A personal run of the code for **Watch Your Step: Anticipated Perception for Hum
 
 The original training code is not included here. Get it through the project page.
 
+## Demo
+
+[![Walking on the 13 evaluation terrains (preview)](media/preview.gif)](videos/all_terrains.mp4)
+
+Preview: 1.5 s (from t = 2.0 s) of each of the 13 clips. Click it to open the
+[full video](videos/all_terrains.mp4) (about 130 s, 23 MB; download it if GitHub does not play it).
+These are single episodes from a centre spawn, not a success rate; see [Videos](#videos).
+
 ## Setup of this run
 
 | | This run | Repository default |
